@@ -1,6 +1,6 @@
 # todo-app
 
-> A Vue.js project
+> We have learned how to initialize a Vue app using the Vue CLI. In addition, we learned about component structure, adding data to components, event listeners and event handlers. We saw how to create a todo, edit it and delete it.
 
 ## Build Setup
 

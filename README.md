@@ -1,6 +1,6 @@
 # todo-app
 
-> A Vue.js project
+> We have learned how to initialize a Vue app using the Vue CLI. In addition, we learned about component structure, adding data to components, event listeners and event handlers. We saw how to create a todo, edit it and delete it.
 
 ## Build Setup
 
@@ -17,5 +17,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
